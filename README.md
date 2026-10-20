@@ -1,3 +1,4 @@
+[recommender.py](https://github.com/user-attachments/files/33710824/recommender.py)
 # 🎬 Movie Recommendation System
 
 A content-based movie recommendation web app built with **Python**, **Pandas**, **Streamlit**, and **scikit-learn**. It uses Natural Language Processing (NLP), TF-IDF vectorization, and cosine similarity to recommend movies with similar textual characteristics.
